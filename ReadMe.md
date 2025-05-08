@@ -12,7 +12,7 @@ A recursive forensic scanner for binary memory dumps, obfuscated payloads, and c
 - Optional AES-128 decryption attempts
 - Language fingerprinting
 - MIME type recognition
-- Logging to desktop
+- Logging to directory
 
 ## 🖥 Requirements
 
